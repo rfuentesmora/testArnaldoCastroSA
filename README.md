@@ -3,9 +3,13 @@ Aplicación Web que consulta el API de Marvel.
 
 Despliegue de la aplicación
 1-Clonar el proyecto de GITHUB
+
 2-Descomprimir el proyecto en un directorio de su PC.
+
 3-Abrir una terminal de comandosy dirigirse a la carpeta raíz del proyecto y ejecutar mvn install -Dmaven.test.skip=true
+
 4-Ejecutar mvn spring-boot:run
+
 5-Abrir el navegador web en http://localhost:9093/ 
 
 
