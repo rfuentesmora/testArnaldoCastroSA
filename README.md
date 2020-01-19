@@ -11,3 +11,5 @@ Obviamente, este complemento también requiere que tengamos la versión actual d
 Como herramienta de compilación, utilizar Maven (a partir de 3.3).
 
 Cabe la posibilidad de incorporar un objeto servlet que ejecute la aplicación Java sobre la base de un servidor web. Para hacerlo, puedes elegir entre tres soluciones: Apache Tomcat (a partir de 9.0), Jetty (a partir de 9.4) o Undertow (a partir de 2.0).
+
+Abrir el navegador web en http://localhost:9093/ y ejecutar la aplicación.
