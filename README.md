@@ -15,6 +15,9 @@ Despliegue de la aplicación
 
 
 
+
+Nota: Se autodocumentó con la librería swagger.... Ver: http://localhost:9093/swagger-ui.html 
+
 Requisitos del Sistema
 
 Java Runtime Environment (plataforma Java) es el principal componente de software para que el marco funcione. Como esta aplicación no solo se ejecuta, sino que también se emplea para el desarrollo con Java, necesitas al menos la versión 8 (o 1.8) del llamado Java Development Kit (JDK). 
