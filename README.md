@@ -2,6 +2,7 @@
 Aplicación Web que consulta el API de Marvel.
 
 Despliegue de la aplicación
+
 1-Clonar el proyecto de GITHUB
 
 2-Descomprimir el proyecto en un directorio de su PC.
