@@ -1,6 +1,15 @@
 # testArnaldoCastroSA
 Aplicación Web que consulta el API de Marvel.
 
+Despliegue de la aplicación
+1-Clonar el proyecto de GITHUB
+2-Descomprimir el proyecto en un directorio de su PC.
+3-Abrir una terminal de comandosy dirigirse a la carpeta raíz del proyecto y ejecutar mvn install -Dmaven.test.skip=true
+4-Ejecutar mvn spring-boot:run
+5-Abrir el navegador web en http://localhost:9093/ 
+
+
+
 Requisitos del Sistema
 
 Java Runtime Environment (plataforma Java) es el principal componente de software para que el marco funcione. Como esta aplicación no solo se ejecuta, sino que también se emplea para el desarrollo con Java, necesitas al menos la versión 8 (o 1.8) del llamado Java Development Kit (JDK). 
@@ -10,6 +19,4 @@ Obviamente, este complemento también requiere que tengamos la versión actual d
 
 Como herramienta de compilación, utilizar Maven (a partir de 3.3).
 
-Cabe la posibilidad de incorporar un objeto servlet que ejecute la aplicación Java sobre la base de un servidor web. Para hacerlo, puedes elegir entre tres soluciones: Apache Tomcat (a partir de 9.0), Jetty (a partir de 9.4) o Undertow (a partir de 2.0).
-
-Abrir el navegador web en http://localhost:9093/ y ejecutar la aplicación.
+Cabe la posibilidad de incorporar un objeto servlet que ejecute la aplicación Java sobre la base de un servidor web. Para hacerlo, puedes elegir Apache Tomcat (a partir de 9.0).
